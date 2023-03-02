@@ -1,5 +1,5 @@
 import sqlite3
-con1 = sqlite3.connect("/home/tets/strashoeDelo.db")
+con1 = sqlite3.connect("/home/dd/strashoeDelo.db")
 
 cur1 = con1.cursor()
 
